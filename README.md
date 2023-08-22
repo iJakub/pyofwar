@@ -1,4 +1,7 @@
 # pyofwar
+[![PyPi Version](https://img.shields.io/pypi/v/pyofwar.svg?style=flat-square)](https://pypi.org/project/artofwar)
+[![PyPI pyversions](https://img.shields.io/pypi/pyversions/pyofwar.svg?style=flat-square)](https://pypi.org/pypi/pyofwar/)
+
 Python library for Sun Tzu's most popular quotes
 
 Most of the quotes were taken from the website [quotefancy](https://quotefancy.com/sun-tzu-quotes)
