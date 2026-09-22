@@ -1,5 +1,5 @@
 # pyofwar
-[![PyPi Version](https://img.shields.io/pypi/v/pyofwar.svg?style=flat-square)](https://pypi.org/project/artofwar)
+[![PyPi Version](https://img.shields.io/pypi/v/pyofwar.svg?style=flat-square)](https://pypi.org/project/pyofwar)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/pyofwar.svg?style=flat-square)](https://pypi.org/pypi/pyofwar/)
 
 Python library for Sun Tzu's most popular quotes
